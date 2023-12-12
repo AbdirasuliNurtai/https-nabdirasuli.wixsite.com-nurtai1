@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+</head>
+<body>
+  <h1 style="color: red;">Абдирасули Нұртай</h1>
+  <p style="color: blue;"> — Абай атындағы Қазақ ұлттық педогогикалақ университені
+                  Математика, Физика және Информатика институты
+                  Информатика және білімді ақпараттандыру кафедрасы
+
+1 курс студенті Абдирасули Нұртай Нағашыбай ұлы.</p>
+  <p style="color: green;">GitHub сайтына Wix сайтын орналастыру.</p>
+  
+  <a href="https://docs.google.com/presentation/d/1h7nJqrlCJ9rW9mZOsX61fHLpuZcVLYRoXB_jMp6BgFI/edit?usp=sharing">Оптика презентация</a>
+ 
+  <img src=https://nabdirasuli.wixsite.com/nurtai1="400">
+
+</body>
+</html>
